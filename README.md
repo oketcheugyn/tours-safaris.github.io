@@ -1,4 +1,4 @@
-#SAFARIS-TOURS#
+# SAFARIS-TOURS #
 ## Home     All trips     Destinations     Activities     Trip types     Visa & passports     Who we are     Blog contact ##
 ###  DISCOVER HOW WE MAKE YOUR TRIPS MEMORABLE ###
 **WHAT WE OFFER**
@@ -9,6 +9,4 @@
 -6 DAYS LOITA TREK
 -4 DAYS AMBOSELI NATIONAL PARK
 ![Amboseli-National-Park](https://github.com/user-attachments/assets/4cef44ba-025b-41ec-a10d-d31016d42568)
-![chalbi](https://github.com/user-attachments/assets/dd045130-3a08-4497-9382-40c334712ee1)
-![images (1)](https://github.com/user-attachments/assets/de1cf32f-5bbd-4bc9-8f42-5dc2dadf1c8a)
 ![empakaai-slider-1024x517](https://github.com/user-attachments/assets/00c1a6a9-0b29-4e1a-84ac-046375611179)
