@@ -3,7 +3,7 @@
   # TOURS & SAFARIS 
 
 
-_come embrace your wonder lust._  
+come embrace your wonder lust.  
 
 </header>
 
@@ -17,7 +17,7 @@ _come explore with us for exiting safari tours_
 <header>
 
 
-  # OUR SERVICES 
+   OUR SERVICES 
 
 <header>
   
