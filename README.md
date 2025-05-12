@@ -9,7 +9,7 @@ _come embrace your wonder lust._
 ## What we do
 
 ##### we specalize in game safaris by road and air, we have a range of services whch include the following:-
-##### Beach,Lodges and Hotel Bookings #####
+##### Beach,Lodges and Hotel Bookings
 
 _come explore with us for exiting safari tours_
 
