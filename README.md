@@ -38,5 +38,5 @@ _come explore with us for exiting safari tours_
 <header>
 
 
-    4 DAYS LAKE NAIVASHA
+     4 DAYS LAKE NAIVASHA
 
