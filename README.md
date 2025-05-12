@@ -17,7 +17,7 @@ _come explore with us for exiting safari tours_
 <header>
 
 
-   OUR SERVICES 
+  ### OUR SERVICES 
 
 <header>
   
