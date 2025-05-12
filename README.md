@@ -1,6 +1,6 @@
 <header>
 
-  # TOURS & SAFARIS #
+  # TOURS & SAFARIS 
 
 _come embrace your wonder lust._  
 
@@ -14,6 +14,7 @@ _come embrace your wonder lust._
 _come explore with us for exiting safari tours_
 
 <header>
+
 
   # OUR SERVICES 
 
